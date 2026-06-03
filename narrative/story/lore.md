@@ -34,7 +34,7 @@ This ritual was not simple and fast-- This ritual took precisely 20 years to com
 > **[Click here](ritual.md)**
 
 <div style="display: flex; justify-content: center; gap: 20px">
-<img align="left" src="circle_of_doom.jpeg" alt="Circle of Doom" style="max-height: 100px; width: 100px;">
+<img align="left" src="circle_of_doom.jpeg" alt="Circle of Doom" style="max-height: 150px; width: 150px;">
 <p> 
 This is a real pottery from the Aztecs. The ritual is fake but this looks like it.
 <br/>
